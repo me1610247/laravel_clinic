@@ -1,0 +1,8 @@
+Facde :
+a Facade is a class that provides a static interface to the underlying components in the service container. It offers a convenient way to access Laravel's services without directly interacting with them through dependency injection.
+
+Facades serve as a proxy for underlying classes bound in the service container and provide a clean and expressive syntax for interacting with those classes. They allow you to access various services and features of Laravel in a static way, which can enhance code readability and simplify usage.
+we use it when we want 
+1-Simplified Syntax
+2-Accessing Services Globally
+3-Easier Testing

@@ -1,0 +1,8 @@
+Service Provider:
+a service provider is a crucial part of the application's architecture. It's responsible for bootstrapping various services into the application, including registering bindings, event listeners, middleware, and more.
+بستخدمها لما اعوز افصل ال Routes عن بعض
+يعني عايز اعمل web.php
+و عايز اعمل admin.php 
+ف باختصار ال serve provider خاص انه يفصلي ال routes مجرد ما
+بعمل فانكشن جواه للadmin.php
+و بعمل mapAdminRoutes
